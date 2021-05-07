@@ -40,3 +40,6 @@ $ python demo.py -i "assets/5.jpg"  -c 0  0  255
 ### Output :
 
 ![out](assets/out.jpg)
+
+
+<a href="https://www.buymeacoffee.com/xyfer17"><img src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif"></a>
